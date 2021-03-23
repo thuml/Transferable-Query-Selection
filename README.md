@@ -1,2 +1,3 @@
 # -thuml-Transferable-Query-Selection
-Code Release for "Learning to Detect Open Classes for Universal Domain Adaptation"(CVPR2021)  Waiting for clearing up and document
+Code Release for "Transferable Query Selection for Active Domain Adaptation"(CVPR2021)  
+Waiting for clearing up and document
