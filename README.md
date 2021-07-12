@@ -1,4 +1,4 @@
-# Transferable-Query-Selection
+# Transferable-Query-Selection (Editing)
 Code Release for "Transferable Query Selection for Active Domain Adaptation"(CVPR2021)  
 
 Waiting for clearing up and document.
